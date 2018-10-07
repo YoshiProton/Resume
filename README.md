@@ -15,12 +15,18 @@
 
 ## Education
 - Hokkaido University 
-   - Ph.D in Elementar Particle Physics in (2009/4-2012/3).
+   - Ph.D in Elementar Particle Physics (Lattice Supersymmetry) (2009/4-2012/3).
    - Master Degree (2007/4-2009/3), Bachlor Degree (2002/4-2007/3)
    - Took 1-year-gap-year (2005/4-2006/3) for studying abroard in Warwick University, England.
   
 ## Interest
+- Computer Vision (MVS, SLAM, AR/MR)
+- Machine Learning
+- Physics (Elementary Particle Physics)
+- Cooking, Riding Bicyle, Cinemas, Reeading Books.
 
+## Techinical Blog (Japanese)
+- https://qiita.com/proton_lattice
 
 
 
